@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+.menu{
+    width: 80%;
+    background-color: grey;
+    overflow: auto;
+    border: 2px solid black;
+    
+}
+
+.menu a{
+    background-color: aqua;
+    width: 50px;
+    height: 40px;
+    float: left;
+    font-size: 50px;
+    color: red;
+    padding: 30px;
+   
+}
+
+.menu :hover{
+    background-color: yellow;
+}

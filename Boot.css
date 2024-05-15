@@ -1,0 +1,14 @@
+.col1{
+   padding-top: 10vh;
+   padding-left: 10vh;
+   font-size: 15vh;
+   background-color: grey;
+   height: 95vh;
+   float: left;
+}
+
+.col2{
+    background-image: url(images/smiling-little-naruto-oebuh5htozbbwrnp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

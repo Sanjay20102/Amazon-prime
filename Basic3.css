@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.hi{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid black;
+    height: 40vh;
+    width: 40vh;
+    margin: 20vh;
+}
+
+.in{
+    padding: 10vh;
+}

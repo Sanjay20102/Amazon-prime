@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    margin-top: 20vh;
+}
+.hi{
+    display: flex;
+    background-color: burlywood;
+    border: 5px solid yellow;
+    font-family: 'Times New Roman', Times, serif;
+    height: 30vh;
+    width: 30vh;
+    justify-content: center;
+    margin-right: 10vh;
+    align-items: center;
+}
+
+.hello{
+    display: flex;
+    background-color: aqua;
+    border: 5px solid violet;
+    font-family: cursive;
+    height: 30vh;
+    width: 30vh;
+    justify-content: center;
+    margin-right: 10vh;
+    align-items: center;
+}
+
+.bye{
+    display: flex;
+    background-color: red;
+    border: 5px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 30vh;
+    width: 30vh;
+    justify-content: center;
+    align-items: center;
+}

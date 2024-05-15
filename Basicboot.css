@@ -1,0 +1,19 @@
+.col1{
+    height: 50vh;
+    background-color: aqua;
+}
+
+.col2{
+    height: 50vh;
+    background-color: yellow;
+}
+
+.col3{
+    height: 50vh;
+    background-color: grey;
+}
+
+.col4{
+    height: 50vh;
+    background-color: orange;
+}

@@ -1,0 +1,18 @@
+table{
+    height: 40vh;
+    width: 50vh;
+}
+
+table,th,td{
+    border: 5px solid red;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: aqua;
+}
+
+td{
+    background-color: yellow;
+    text-align: center;
+}

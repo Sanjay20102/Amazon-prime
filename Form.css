@@ -1,0 +1,64 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    background-image: url(images/smiling-little-naruto-oebuh5htozbbwrnp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    background-color: rgb(215, 148, 72);
+    width: 50vh;
+    height: 40vh;
+    border: 3px solid red;
+    text-align: center;
+}
+
+.input{
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.input label{
+    display: block;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aqua;
+}
+
+.input [type="text"]{
+    padding: 5px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+.btn [type="submit"]{
+    padding: 5px;
+    width: 15vh;
+    margin-top: 30px;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
+
+.btn [type="reset"]{
+    padding: 5px;
+    width: 15vh;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+
+}
+
+.btn [type="submit"]:hover{
+    background-color: aqua;
+}
+
+.btn [type="reset"]:hover{
+    background-color: grey;
+}

@@ -1,0 +1,12 @@
+.hi{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.hello{
+    background-color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
